@@ -3,5 +3,5 @@
 * change name to 'worlds' replace to world folder<br/>
 * start game to play
 
-## one command
+## for professional 
 * git clone https://github.com/palmatthapon/valheim_world_save C:\Users\<My Username>\AppData\LocalLow\IronGate\Valheim\worlds
